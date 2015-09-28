@@ -50,5 +50,5 @@ int main(int argc, char **argv)
 	return 0;
 }
 ```
-Implement the function `strstr()`. It takes 2 parameters: a _haystack_ string, and a _needle_ string. The function finds the first occurrence of the _needle_ string in the _haystack_ string, and returns a pointer to the location of this first occurrence. If _needle_ is not found in _haystack_, then the function should return a null point
+Implement the function `strstr()`. It takes 2 parameters: a _haystack_ string, and a _needle_ string. The function finds the first occurrence of the _needle_ string in the _haystack_ string, and returns a pointer to the location of this first occurrence. If _needle_ is not found in _haystack_, then the function should return a null pointer.
 
