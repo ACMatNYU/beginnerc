@@ -44,4 +44,4 @@ int main(int argc, char **argv)
 	return 0;
 }
 ```
-What happens with this program is run? Can you figure out on what line the error(s) occurs, and why?
+What happens with this program is run? Can you figure out on what line the error(s) occurs, and why? Without using malloc, and only by modifying/deleting existing code, can you fix the bugs?
